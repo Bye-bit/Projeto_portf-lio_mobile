@@ -39,9 +39,9 @@ assets
 ---
 Como Executar
 
-Clone o repositório:
+Clone o repositório: 
 
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone https://github.com/Bye-bit/Projeto_portf-lio_mobile
 
 Entre na pasta:
 
