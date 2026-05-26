@@ -9,6 +9,7 @@ import {
 } from "react-native";
 import { LinearGradient } from "expo-linear-gradient";
 import { Ionicons } from "@expo/vector-icons";
+import { router } from "expo-router";
 
 export default function HomeScreen() {
   const openLink = async (url: string) => {
@@ -80,7 +81,7 @@ export default function HomeScreen() {
       </LinearGradient>
 
       <View style={styles.section}>
-        <Text style={styles.sectionTitle}>Sobre Mim</Text>
+        <Text style={styles.sectionTitle}>About me</Text>
 
         <View style={styles.infoCard}>
           <Text style={styles.infoText}>
@@ -112,7 +113,10 @@ export default function HomeScreen() {
         </View>
       </View>
 
-      <Pressable style={styles.projectsButton}>
+      <Pressable
+        style={styles.projectsButton}
+        onPress={() => router.push("/projetos")}
+      >
         <Text style={styles.projectsButtonText}>Ver Projetos</Text>
       </Pressable>
     </ScrollView>
