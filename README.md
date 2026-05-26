@@ -4,6 +4,8 @@ Aplicação mobile desenvolvida com React Native e Expo como versão mobile do m
 
 O projeto foi desenvolvido utilizando Expo Router para navegação entre telas, interface moderna responsiva e integração com links externos.
 
+---
+
  Tecnologias Utilizadas
 React Native
 Expo
@@ -11,6 +13,8 @@ Expo Router
 TypeScript
 Expo Linear Gradient
 React Native Vector Icons / Ionicons
+
+---
 
  Funcionalidades
 Tela Home
@@ -21,9 +25,13 @@ Navegação por Tabs
 Links para GitHub, LinkedIn e Instagram
 Interface responsiva e estilizada
 
+---
+
  Jogo
 
 O aplicativo possui um jogo da forca totalmente funcional desenvolvido dentro do próprio app utilizando React Native.
+
+---
 
  Estrutura do Projeto
 app
@@ -36,6 +44,8 @@ app
  ┣ _layout.tsx
 assets
  ┗ images
+
+---
 
 Como Executar
 
@@ -58,7 +68,9 @@ npm run go
 ou
 
 npm run goTunnel
+
 ---
+
 Dependências Utilizadas
 
 Instalar Expo Router:
@@ -73,6 +85,7 @@ Instalar ícones:
 
 npx expo install @expo/vector-icons
 
+---
 
 O aplicativo contém:
 
@@ -81,7 +94,12 @@ Projetos acadêmicos
 Experiências
 Tecnologias utilizadas
 Jogo da forca integrado
- Autor
+ 
+ ---
+ 
+Autor
+
+
 
 Lucas Fernandes
 
