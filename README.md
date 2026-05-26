@@ -3,7 +3,7 @@ Portfolio Mobile - React Native + Expo
 Aplicação mobile desenvolvida com React Native e Expo como versão mobile do meu portfólio pessoal.
 
 O projeto foi desenvolvido utilizando Expo Router para navegação entre telas, interface moderna responsiva e integração com links externos.
----
+
  Tecnologias Utilizadas
 React Native
 Expo
@@ -11,7 +11,7 @@ Expo Router
 TypeScript
 Expo Linear Gradient
 React Native Vector Icons / Ionicons
----
+
  Funcionalidades
 Tela Home
 Tela Sobre
@@ -20,11 +20,11 @@ Jogo da Forca integrado ao App
 Navegação por Tabs
 Links para GitHub, LinkedIn e Instagram
 Interface responsiva e estilizada
----
+
  Jogo
 
 O aplicativo possui um jogo da forca totalmente funcional desenvolvido dentro do próprio app utilizando React Native.
----
+
  Estrutura do Projeto
 app
  ┣ (tabs)
@@ -36,7 +36,7 @@ app
  ┣ _layout.tsx
 assets
  ┗ images
----
+
 Como Executar
 
 Clone o repositório: 
