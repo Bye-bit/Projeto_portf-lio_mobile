@@ -55,7 +55,8 @@ git clone https://github.com/Bye-bit/Projeto_portf-lio_mobile
 
 Entre na pasta:
 
-cd nome-do-projeto
+cd Projeto_portf-lio_mobile
+cd portifolio_mobile
 
 Instale as dependências:
 
