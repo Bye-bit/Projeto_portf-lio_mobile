@@ -2,6 +2,7 @@
   "expo": {
     "name": "portifolio_mobile",
     "slug": "portifolio_mobile",
+    "owner": "lucasfernandesportifolioweb",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -43,6 +44,18 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "4c12a775-2c97-411d-a6d7-88e67dd377ad"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/4c12a775-2c97-411d-a6d7-88e67dd377ad"
     }
   }
 }
