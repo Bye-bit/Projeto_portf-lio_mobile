@@ -4,15 +4,9 @@ const technologies = [
   "React Native",
   "Expo",
   "Expo Router",
-  "TypeScript",
   "Next.js",
   "React",
-  "Django",
-  "Java",
-  "Python",
   "JavaScript",
-  "C",
-  "Tailwind CSS",
 ];
 
 export default function SobreScreen() {
